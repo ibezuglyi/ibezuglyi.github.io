@@ -21,6 +21,10 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 .container {
@@ -67,6 +71,7 @@ h4 {
 p {
   margin: 15px 0;
   font-family: $myfont;
+  text-align: justify;
 }
 
 a {
