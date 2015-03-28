@@ -1,6 +1,6 @@
 ---
 layout: post
-title: O edukacji słÓw kilka
+title: O edukacji słów kilka
 ---
 
 Czy bywało u was tak, że ktoś twierdzi, że "ta nasza edukacja jest do kitu, niczemu nas nie uczą, pracodawcy teraz potrzebują zupełnie innych umiejętności"? Zdarzyło mi się też o tym wczoraj podyskutować z kolegą ze studiów. Jego zdaniem uniwersytet powinien był nas nauczyć nowoczesnej architekturze komputerowej, musiał dać nam pewien poziom abstrakcji, sposób myslenia, pewien instrument dla projektowania nowoczesnej architekturze komputerowej.
