@@ -4,7 +4,7 @@ title: O mnie
 permalink: /about/
 ---
 
-Cześć, to jest mój blog o programowaniu i o życiu programisty. To jest kolejna próba kontynuacji tego blogu [http://ibezugly.blogspot.com/](http://ibezugly.blogspot.com/). 
+Cześć, to jest mój blog o programowaniu i o życiu programisty. To jest kolejna próba kontynuacji tego blogu [http://ibezugly.blogspot.com/](http://ibezugly.blogspot.com/).
 
 ### Kontakt
 
