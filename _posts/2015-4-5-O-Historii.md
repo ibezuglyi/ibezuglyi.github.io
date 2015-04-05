@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Historia jak argument w debacie politycznej
+title: Historia jako argument w debacie politycznej
 ---
 
 **Teraz z pewnością mogę Ci powiedzieć, że znam historię dowolnego kraju na planecie Zemia na tyle dobrze, ze opowiem Ci ją w kilku zdaniach.**
