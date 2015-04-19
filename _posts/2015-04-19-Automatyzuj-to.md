@@ -17,7 +17,7 @@ Skrypt jest uruchamiany przed każdym commit'em. Dla wszystkich plikow typu *.re
 
 <script src="https://gist.github.com/ibezuglyi/baeff2bb71a2b631cdc1.js"></script>
 
-Teraz w moim repo podczas zmian plików będę widzial plik diff.diff, ktory bedzie zawieral wszystkie zmiany plików zasobów. Moim zadaniem jest wysłac ten plik do TL'a.
+Teraz w moim repo podczas zmian plików będę widział plik diff.diff, ktory będzie zawierał wszystkie zmiany plików zasobów. Moim zadaniem jest wysłać ten plik do TL'a.
 
 **Rozwiązanie ++**
 Lepszym rozwiazaniem byłoby wysyłanie tego pliku po każdym commicie do TL. Nad tym już pracuję.
