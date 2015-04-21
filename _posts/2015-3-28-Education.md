@@ -10,6 +10,6 @@ I co mnie nie podoba się w jego wypowiedzi?
   .. powinien oraz musi...
 
 STUDENTOWI. UNIWERSYTET. NICZEGO. NIE. MUSI. ROBIĆ.
-Jeśli też uważasz, że uniwersytet musi/musiał Ciebie nauczyć jakichś rzeczy - jesteś w błędzie. Jeśli sam chcesz poznać coś nowego lub czegoś się nauczyć, to  uruchamiasz przeglądarkę, ~idziesz do bibioteki~, idziesz na praktyki do firmy, ~kupujesz książkę~ i sam się uczysz. SAM. Bez durnych konstrukcji typu "mnie nie nauczyli, mi nie dali".
+Jeśli też uważasz, że uniwersytet musi/musiał Ciebie nauczyć jakichś rzeczy - jesteś w błędzie. Jeśli sam chcesz poznać coś nowego lub czegoś się nauczyć, to  uruchamiasz przeglądarkę, <strike>idziesz do bibioteki</strike>, idziesz na praktyki do firmy, <strike>kupujesz książkę</strike> i sam się uczysz. SAM. Bez durnych konstrukcji typu "mnie nie nauczyli, mi nie dali".
 
  Zastanów się nad całym podejściem do życia w ten sposób.
