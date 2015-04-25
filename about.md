@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Cześć, to jest mój blog o programowaniu i o życiu programisty. To jest kolejna próba kontynuacji tego blogu [http://ibezugly.blogspot.com/](http://ibezugly.blogspot.com/).
-Jak już zauwazyłes język polski nie jest dla mnie ojczystym i dlatego często w postach popełniam różne błędy. Mam nadzieję że nie stanowi to problemu dla Ciebie. Ze swojej strony zapewniam, że pracuję nad tym codziennie, uczę się języka i poprawiam wszystkie odnalezione błędy na bieżąco.
+Jak już zauwazyłeś język polski nie jest dla mnie ojczystym i dlatego często w postach popełniam różne błędy. Mam nadzieję że nie stanowi to problemu dla Ciebie. Ze swojej strony zapewniam, że pracuję nad tym codziennie, uczę się języka i poprawiam wszystkie odnalezione błędy na bieżąco.
 
 ### Kontakt
 
