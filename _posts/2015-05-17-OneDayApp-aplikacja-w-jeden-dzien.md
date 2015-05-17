@@ -3,7 +3,7 @@ layout: post
 title: OneDayApp - czyli aplikacja w jeden dzień
 ---
 
-#Pomysł#
+###Pomysł###
 Ostatnim czasem mam tak, że chce mi się spróbować rożnych technologii/bibliotek. Albo pojawia się pomysł na małą aplikację. Co gorzej, taki pomysł kręci mi się w głowie i nie odpuszcza, i wtedy stawiam sobie cel: Napisać appkę/prototyp lub udowodnić że się nie da. Nie mam na celu napisać w pełni działającą appkę, nie dbam specjalnie o jakość kodu. W tym #OneDayApp chodzi tylko o  działający prototyp.
 
 ###Ten weekend###
