@@ -15,7 +15,7 @@ Praktyka hackatonów pokazuję, że nie zawsze wygrywa najlepsze rozwiązanie z 
 Mnie się osobiście podoba takie zjawisko jak hackathon. Bardzo się cieszę, że staje się to we Wrocławiu co raz bardziej popularnym. Dlaczemu nie zrobić hackathon też? Nietypowy <strike> z whiskey i blackjack'iem</strike> z pokryciem appki testami automatycznymi? Uwaga: rejestracja jeszcze otwarta [http://softwaretalks.pl/events/event/dev-qa-hackathon/](softwaretalks.pl/events/event/dev-qa-hackathon/).
 
 ###To właśnie testów nigdy nie jest za dużo###
-Choć jestem zwolennikiem piramidy testów Martina Fowlera [http://martinfowler.com/bliki/TestPyramid.html] i uważam, że zdecydowana większość testów muszą być testy jednostkowe, to bardzo lubię testy automatyczne i bardzo chętnie poznaję nowe narzędzia albo biblioteki do testowania. Proponuję otworzyć maskę i zajrzeć jak wygląda pierwszy prosty test automatyczny. Uwaga pod maską znajduje się Javascript.
+Choć jestem zwolennikiem piramidy testów Martina Fowlera [http://martinfowler.com/bliki/TestPyramid.html](http://martinfowler.com/bliki/TestPyramid.html) i uważam, że zdecydowana większość testów muszą być testy jednostkowe, to bardzo lubię testy automatyczne i bardzo chętnie poznaję nowe narzędzia albo biblioteki do testowania. Proponuję otworzyć maskę i zajrzeć jak wygląda pierwszy prosty test automatyczny. Uwaga pod maską znajduje się Javascript.
 
 ###Twój pierwszy test###
 Instalujemy webdriverio:
