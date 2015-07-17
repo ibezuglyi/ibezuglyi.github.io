@@ -11,8 +11,9 @@ Jak już zauwazyłeś język polski nie jest dla mnie ojczystym i dlatego częst
 Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, przeczytałem, i być może będą warte Twojej uwagi również. Ta lista nie jest stała i nie może być ową z definicji, ponieważ codziennie uczę się, codziennie oglądam coś nowego.
 
 #### W trakcie
+
 1. First, Break All The Rules: What The Worlds Greatest Managers Do Differently [http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119](http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119)
-2. The Art of Deception: Controlling the Human Element of Security, Kevin Mitnick
+2. The Art of Deception: Controlling the Human Element of Security, Kevin Mitnick [http://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X/ref=la_B001IO9WEW_1_2?s=books&ie=UTF8&qid=1437171011&sr=1-2]
 
 #### Przeczytane/obejrzane
 1. ElasticSearch Cookbook [https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook)
@@ -22,5 +23,4 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 5. Marc Ferro, The Use and Abuse of History: Or How the Past is Taught to Children [http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925](http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925)
 
 ### Kontakt
-
 Jeśli chcesz ze mną skontaktować się użyj adresu mailowego, który jest podany poniżej. Tylko proszę nie pomyl się w moim imieniu i nazwisku, gdyż potraktuję to jako Twój nie profesjonalizm.
