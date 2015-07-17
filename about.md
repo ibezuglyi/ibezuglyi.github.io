@@ -11,14 +11,15 @@ Jak już zauwazyłeś język polski nie jest dla mnie ojczystym i dlatego częst
 Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, przeczytałem, i być może będą warte Twojej uwagi również. Ta lista nie jest stała i nie może być ową z definicji, ponieważ codziennie uczę się, codziennie oglądam coś nowego.
 
 #### W trakcie
-1. ElasticSearch Cookbook [https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook)
-2. Jack Welch, Winning: The Ultimate Business How-To Book [http://www.amazon.com/Winning-Ultimate-Business-How--Book-ebook/dp/B000FCK3GO/ref=la_B000AP9HAO_1_1?s=books&ie=UTF8&qid=1432846436&sr=1-1](http://www.amazon.com/Winning-Ultimate-Business-How--Book-ebook/dp/B000FCK3GO/ref=la_B000AP9HAO_1_1?s=books&ie=UTF8&qid=1432846436&sr=1-1)
-3. First, Break All The Rules: What The Worlds Greatest Managers Do Differently [http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119](http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119)
+1. First, Break All The Rules: What The Worlds Greatest Managers Do Differently [http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119](http://www.amazon.com/First-Break-All-The-Rules/dp/0743510119)
+2. The Art of Deception: Controlling the Human Element of Security, Kevin Mitnick
 
 #### Przeczytane/obejrzane
-1. Pozycjonowanie się na rynku pracy  [http://kenis.pl/pozycjonowanie-sie-na-rynku-pracy-%E2%80%93-ekspert-czy-biznesmen,10413](http://kenis.pl/pozycjonowanie-sie-na-rynku-pracy-%E2%80%93-ekspert-czy-biznesmen,10413)
-2. Скрябин Кузьма, Я, Паштєт і Армія [http://www.e-reading.club/book.php?book=1035256](http://www.e-reading.club/book.php?book=1035256) lub https://www.youtube.com/watch?v=TQSBYCVczxk
-3. Marc Ferro, The Use and Abuse of History: Or How the Past is Taught to Children [http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925](http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925)
+1. ElasticSearch Cookbook [https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook)
+2. Jack Welch, Winning: The Ultimate Business How-To Book [http://www.amazon.com/Winning-Ultimate-Business-How--Book-ebook/dp/B000FCK3GO/ref=la_B000AP9HAO_1_1?s=books&ie=UTF8&qid=1432846436&sr=1-1](http://www.amazon.com/Winning-Ultimate-Business-How--Book-ebook/dp/B000FCK3GO/ref=la_B000AP9HAO_1_1?s=books&ie=UTF8&qid=1432846436&sr=1-1)
+3. Pozycjonowanie się na rynku pracy  [http://kenis.pl/pozycjonowanie-sie-na-rynku-pracy-%E2%80%93-ekspert-czy-biznesmen,10413](http://kenis.pl/pozycjonowanie-sie-na-rynku-pracy-%E2%80%93-ekspert-czy-biznesmen,10413)
+4. Скрябин Кузьма, Я, Паштєт і Армія [http://www.e-reading.club/book.php?book=1035256](http://www.e-reading.club/book.php?book=1035256) lub https://www.youtube.com/watch?v=TQSBYCVczxk
+5. Marc Ferro, The Use and Abuse of History: Or How the Past is Taught to Children [http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925](http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925)
 
 ### Kontakt
 
