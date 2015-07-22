@@ -22,5 +22,9 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 4. Скрябин Кузьма, Я, Паштєт і Армія [http://www.e-reading.club/book.php?book=1035256](http://www.e-reading.club/book.php?book=1035256) lub https://www.youtube.com/watch?v=TQSBYCVczxk
 5. Marc Ferro, The Use and Abuse of History: Or How the Past is Taught to Children [http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925](http://www.amazon.co.uk/The-Use-Abuse-History-Routledge/dp/0415285925)
 
+### Certyfikaty
+1. MongoDb University http://university.mongodb.com/course_completion/d775cef326ff4b4697e02cc5d67f51b8
+
+
 ### Kontakt
 Jeśli chcesz ze mną skontaktować się użyj adresu mailowego, który jest podany poniżej. Tylko proszę nie pomyl się w moim imieniu i nazwisku, gdyż potraktuję to jako Twój nie profesjonalizm.
