@@ -5,7 +5,7 @@ title: Pilot linkobloga
 ### Co to
 Tym razem chciałbym przetestować nowy dla siebie format postu. Poniżej znajdziecie listę linków, które uważam, że są bardzo ciekawe. Oznacza to tyle, że w ciągu kilku ostatnich dni interesowałem się tymi zagadnieniami, które wcale nie muszą być jakimiś nowościami. Poswięciłem tym linkom swój czas prywatny, więc być może zainteresują również i czytaczy tego bloga.  Zapraszam:
 
-1. http://location.rkh.im/ - porównywarka wynagrodzeń/poziomu życia developerów Software engineer'ów w różnych krajach.
+1. (http://location.rkh.im/) - porównywarka wynagrodzeń/poziomu życia developerów Software engineer'ów w różnych krajach.
 2. http://www.bottega.com.pl/artykuly-i-prezentacje - ciekawy zestaw linków i artykułów o DDD, CQRS i innych arhitektonicznych zagadnieniach.
 3. http://startups.paddle.com - przyda się osobom, zaczynającym startup, albo po prostu świeżym przedciębiorcom.
 4. https://github.com/DrBoolean/mostly-adequate-guide - książka o programowaniu funkcyjnym w Javascript. Dużo ludzi polecało właśnie tę książke. A jeszcze podobno krąży żart, że jeśli zaczniesz rozumieć monady to nie potrafisz nikomu to wytłumaczyć.
