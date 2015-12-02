@@ -24,6 +24,9 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 7. The Art of Deception: Controlling the Human Element of Security, Kevin Mitnick [http://www.amazon.com/Art-Deception-Controlling-Element-Security/dp/076454280X/ref=la_B001IO9WEW_1_2?s=books&ie=UTF8&qid=1437171011&sr=1-2]
 8. 1984 George Orwell [http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934](http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)
 9. Москва 2042 [https://en.wikipedia.org/wiki/Moscow_2042](https://en.wikipedia.org/wiki/Moscow_2042)
+10. The Richest Man in Babylon, George Samuel Clason
+11. Your brain at work, David rock
+
 
 ### Certyfikaty
 1. MongoDb University http://university.mongodb.com/course_completion/d775cef326ff4b4697e02cc5d67f51b8
