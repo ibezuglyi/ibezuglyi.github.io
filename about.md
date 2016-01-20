@@ -12,7 +12,7 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 
 #### W trakcie
 1. Learning JavaScript Design Patterns [http://addyosmani.com/resources/essentialjsdesignpatterns/book/](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-2. Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long [http://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/ref=sr_1_1?s=books&ie=UTF8&qid=1447617647&sr=1-1&keywords=david+rock&pebp=1447617649445&perid=15KYDASMWV9KBWWNZ3ZC](http://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/ref=sr_1_1?s=books&ie=UTF8&qid=1447617647&sr=1-1&keywords=david+rock&pebp=1447617649445&perid=15KYDASMWV9KBWWNZ3ZC)
+2. Psychologia szefa 1. Szef to zawód. Jerzy Gut, Wojciech Haman
 
 #### Przeczytane/obejrzane
 1. ElasticSearch Cookbook [https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook](https://www.packtpub.com/big-data-and-business-intelligence/elasticsearch-cookbook)
@@ -25,7 +25,7 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 8. 1984 George Orwell [http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934](http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)
 9. Москва 2042 [https://en.wikipedia.org/wiki/Moscow_2042](https://en.wikipedia.org/wiki/Moscow_2042)
 10. The Richest Man in Babylon, George Samuel Clason
-11. Your brain at work, David rock
+11. Your Brain at Work: Strategies for Overcoming Distraction, Regaining Focus, and Working Smarter All Day Long [http://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/ref=sr_1_1?s=books&ie=UTF8&qid=1447617647&sr=1-1&keywords=david+rock&pebp=1447617649445&perid=15KYDASMWV9KBWWNZ3ZC](http://www.amazon.com/Your-Brain-Work-Strategies-Distraction/dp/0061771295/ref=sr_1_1?s=books&ie=UTF8&qid=1447617647&sr=1-1&keywords=david+rock&pebp=1447617649445&perid=15KYDASMWV9KBWWNZ3ZC)
 12. Phule's Company [https://en.wikipedia.org/wiki/Phule%27s_Company](Phule's Company)
 13. The Road to Financial Freedom: Your First Million in Seven Years
 
