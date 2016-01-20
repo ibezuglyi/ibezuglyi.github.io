@@ -26,6 +26,8 @@ Poniżej podaję listę książek, conferencji, artykulów, które obejrzałem, 
 9. Москва 2042 [https://en.wikipedia.org/wiki/Moscow_2042](https://en.wikipedia.org/wiki/Moscow_2042)
 10. The Richest Man in Babylon, George Samuel Clason
 11. Your brain at work, David rock
+12. Phule's Company [https://en.wikipedia.org/wiki/Phule%27s_Company](Phule's Company)
+13. The Road to Financial Freedom: Your First Million in Seven Years
 
 
 ### Certyfikaty
